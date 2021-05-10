@@ -1,0 +1,38 @@
+*{
+ margin: 0;
+ padding: 0;
+ font-family: sans-serif;
+}
+/*Banner*/
+#banner{
+  background: grey;
+  color:#fff;
+  padding-top:4%;
+  height: auto;
+  padding-bottom: 5%;
+  
+}
+.promo-title{
+  font-size:50px;
+  font-weight:600;
+  margin-top: 100px;
+  
+}
+.img-fluid{
+  border-image: transparent;
+}
+
+    
+
+  .col
+  {
+  margin-bottom: 10%;
+
+  
+  }
+  iframe{
+     width: 630px;
+    height: 315px;  
+    
+    }
+  
